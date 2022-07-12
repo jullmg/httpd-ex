@@ -1,5 +1,5 @@
 {
-  "kind": "Template333",
+  "kind": "Template",
   "apiVersion": "template.openshift.io/v1",
   "metadata": {
     "name": "httpd-example",
